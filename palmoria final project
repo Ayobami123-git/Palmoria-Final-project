@@ -1,0 +1,17 @@
+Step-by-Step Data Cleaning Process
+1. Handle Missing Values
+Drop rows with critical missing values (e.g., salary or gender if needed for analysis).
+
+2. Standardize Categorical Values
+Check for typos or inconsistent capitalization in Gender, Department, and Rating.
+Normalize entries (e.g., convert all to title case).
+
+3. Remove Duplicates
+Check if there are duplicate entries by name or other fields.
+
+4. Correct Data Types
+
+5. Validate Data Ranges
+Remove or flag unrealistic values if any.
+
+C:\Users\ADMIN\Desktop\PALMORIA FINAL PROJECT.xlsx
